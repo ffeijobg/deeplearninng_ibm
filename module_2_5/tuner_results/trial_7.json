@@ -1,0 +1,8 @@
+{
+    "trial": 7,
+    "hyperparameters": {
+        "units": 512,
+        "learning_rate": 0.007349640143891507
+    },
+    "score": null
+}
